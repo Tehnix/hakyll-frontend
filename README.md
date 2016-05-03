@@ -31,28 +31,28 @@ Additional ideas for features:
 
 # TODO
 
-[ ] Create a base Hakyll setup
-[ ] Content
-    [ ] List content files
-    [ ] Editing interface to existing post/page files
-    [ ] Allow new posts/pages to be created
-    [ ] Live preview of markdown content (preferably with site styles applied)
-[ ] Static resources
-    [ ] Editing interface to CSS (can just be one main style file for now)
-    [ ] Editing interface to JavaScript (can be two files, one located in the header and one located at the end of the body)
-[ ] Images
-    [ ] List image files
-    [ ] Upload new image files
-    [ ] Delete existing image files
-    [ ] Allow images to be uploaded to S3
-[ ] Templates
-    [ ] List templates
-    [ ] Editing interface to existing templates
-    [ ] Allow new templates to be created
-    [ ] Allow a content to specify a specific template
-[ ] Deployment
-    [ ] Execute a __hakyll__ build
-    [ ] Upload the `_site/` folder to the deployment location
-        [ ] Allow the deployment location to be local
-        [ ] Allow the deployment location to be remote
+- [ ] Create a base Hakyll setup
+- [ ] Content
+    - [ ] List content files
+    - [ ] Editing interface to existing post/page files
+    - [ ] Allow new posts/pages to be created
+    - [ ] Live preview of markdown content (preferably with site styles applied)
+- [ ] Static resources
+    - [ ] Editing interface to CSS (can just be one main style file for now)
+    - [ ] Editing interface to JavaScript (can be two files, one located in the header and one located at the end of the body)
+- [ ] Images
+    - [ ] List image files
+    - [ ] Upload new image files
+    - [ ] Delete existing image files
+    - [ ] Allow images to be uploaded to S3
+- [ ] Templates
+    - [ ] List templates
+    - [ ] Editing interface to existing templates
+    - [ ] Allow new templates to be created
+    - [ ] Allow a content to specify a specific template
+- [ ] Deployment
+    - [ ] Execute a __hakyll__ build
+    - [ ] Upload the `_site/` folder to the deployment location
+        - [ ] Allow the deployment location to be local
+        - [ ] Allow the deployment location to be remote
 
